@@ -1,0 +1,10 @@
+---
+title: "trial"
+output: html_document
+---
+
+#Test RMD
+
+```{r}
+R code
+```
